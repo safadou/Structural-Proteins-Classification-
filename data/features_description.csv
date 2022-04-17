@@ -1,0 +1,16 @@
+ ;Variable;Details
+ ;classification;Classification (fonction) obtenue suite à l'analyse de la macromolécule 
+ ;crystallizationMethod;Méthode mise en œuvre pour obtenir la cristallisation
+ ;crystallizationTempK;température à laquelle la protéine cristallise (commence à former des cristaux).
+ ;densityMatthews;NaN
+ ;densityPercentSol;NaN
+ ;experimentalTechnique;Méthode utilisée pour obtenir la structure de la protéine
+ ;macromoleculeType;Type de macromolécule (Protein,DNA, RNA)
+ ;pdbxDetails;Divers détails sur la protéine
+ ;phValue;Echelle qui détermine si la solution est acide ou basique(e.g. les solutions acides ont un pH < 7.0 et les solutions basiques ont un pH > 7.0)
+ ;publicationYear;Année de publication associée
+ ;residueCount;nombre d’acides aminés dans la séquence
+ ;resolution;Mesure de la qualité des données collectées sur le cristal contenant la protéine
+ ;structureId;Id de la structure
+ ;structureMolecularWeight;Masse moléculaire (en Kilo Daltons)
+ ;sequence;liste d'acides aminés constituant la séquence de la molécule
